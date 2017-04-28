@@ -23,9 +23,7 @@
   <project remote="github" name="ndechesne/meta-qcom" path="layers/meta-qcom"/>
   <project remote="github" name="cpriouzeau/meta-st-cannes2" path="layers/meta-st-cannes2"/>
   <project remote="github" name="JEB12345/meta-ros-sb" path="layers/meta-ros-sb" revision="master"/>
-  <project remote="yocto" name="git/meta-security" path="layers/meta-security"/>
   <project remote="github" name="varigit/meta-variscite-dart-sd410" path="layers/meta-variscite" revision="jethro-var01"/>
-  <project remote="yocto" name="git/meta-ti" path="layers/meta-ti">
       <linkfile dest="setup-environment" src="../../.repo/manifests/setup-environment"/>
   </project>
 
